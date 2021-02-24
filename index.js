@@ -43,7 +43,7 @@ app.post('/api', async (req, res) => {
   } 
   catch (err) {  
     console.log(err)
-    res.send('fuk u');
+    res.send('get shrekd');
   }
   
 })
